@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Hitesh 👋
 I am an aspiring developer passionate about building scalable solutions, exploring ML & DL, and building ML systems.
 
 ## Skills and Tools
